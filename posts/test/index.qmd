@@ -1,0 +1,29 @@
+---
+title: "Title Decider"
+author: "Harlow Malloc"
+date: "2024-08-16"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+## Dialog Schools Rugby League
+
+The two unbeaten teams meet in a fitting showdown as St. Peter’s take on under-dogs and hosts Isipathana College at Havelock Park as the Dialog Schools’ Rugby League arrives to its climax.
+
+In fitting fashion, the defending champions, St. Peter’s College, are set to take on Isipathana College—a school with an illustrious history in the Schools’ Rugby arena—as the two schools go head to head for the Dialog Schools’ Rugby League 2024!
+
+St. Peter’s will have the opportunity to draw level with their rivals, Isipathana, with 16 League Championships in history as the two lock horns.
+
+### St. Peter’s College
+
+St. Peter’s has been simply unstoppable throughout the League, as their team has lived up to its billing, coming through when the chips were down.
+
+St. Peter’s started off with a mammoth win over Thurstan College and have not really been pushed to the limit by any team during the first round of the Leagu
+
+### Isipathana College
+
+Isipathana College has been simply getting the job done week in, week out. They turn out and grind out the wins that keep them in the reckoning for the Dialog Schools’ Rugby League title.
+
+Isipathana started off with three good wins; however, they were tested in a few narrow victories. But just like the lads from Isipathana do, they hung in there and made it count, getting the ‘W’ in all their first-round games.
+
+![All up for grabs](images/images.jpg){fig-align="center"}
